@@ -34,7 +34,9 @@ A full-stack OTP-based login system that allows users to authenticate via **SMS*
 
 ## 🚀 Getting Started
 
-### 1 Clone the Repo or Frontend Setup (React)
+## Clone the Repo
+
+### 1 Frontend Setup (React)
 
 ```bash
 git clone https://github.com/Jayy0906/OTP-login-with-react.git
