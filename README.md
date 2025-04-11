@@ -50,7 +50,7 @@ npm install
 node server.js
 Runs the server at http://localhost:5000
 
-### Environment Variables
+### 3 Environment Variables
 
 ```bash
 
